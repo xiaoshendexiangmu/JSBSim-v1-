@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "simulator": "JSBSim",
+  "model": "F450",
+  "seed": 20261023,
+  "episodes": 120,
+  "samples_per_episode": 81,
+  "observation_file": "observations.csv",
+  "oracle_file": "oracle_labels.csv",
+  "files_have_distinct_roles": true,
+  "note": "Synthetic methodological data only; not a physical effect or tactical model.",
+  "episode_counts": {
+    "no_effect": 39,
+    "degraded": 40,
+    "disabled": 40,
+    "indeterminate": 1
+  }
+}

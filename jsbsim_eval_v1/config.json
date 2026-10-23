@@ -1,0 +1,17 @@
+{
+  "model": "F450",
+  "jsbsim_root": "",
+  "aircraft_path": "",
+  "dt_s": 0.1,
+  "duration_s": 8.0,
+  "episodes": 120,
+  "seed": 20261023,
+  "sensor_dropout_probability": 0.12,
+  "sensor_noise_sigma": 0.025,
+  "minimum_coverage": 0.8,
+  "maximum_gap_s": 1.5,
+  "class_thresholds": {
+    "no_effect_min": 0.8,
+    "degraded_min": 0.2
+  }
+}
